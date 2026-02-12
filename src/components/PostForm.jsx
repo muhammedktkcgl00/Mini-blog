@@ -35,10 +35,10 @@ function PostForm() {
     })
 
     // Formu sıfırla
-    setTitle("")
-    setDescription("")
-    setContent("")
-    setErrors({})
+     setTitle("")
+     setDescription("")
+     setContent("")
+     setErrors({})
   }
 
   return (
